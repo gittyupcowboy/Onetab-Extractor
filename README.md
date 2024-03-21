@@ -1,5 +1,7 @@
 # OneTab Extractor Script v1.0
-`onetab_extractor.py`, is designed to parse/extract links from OneTab.htm, organize said links into groups by their creation date, and save as a markdown file. Each link is numbered sequentially across all tab groups, with each group preceded by its creation date.
+For the extension [OneTab](https://www.one-tab.com) across multiple browsers.   
+
+`onetab_extractor.py`, is designed to parse/extract links from a OneTab.htm saved file, organize said links into groups by their creation date, and save as a markdown file. Each link is numbered sequentially across all tab groups, with each group preceded by its creation date.
 
 ## How to Use
 
@@ -49,12 +51,4 @@ In case browser console dislikes multi-line entry:
 --- 
 
 Adapted from a solution by [u/MultiplyAccumulate](https://old.reddit.com/user/MultiplyAccumulate) on [Reddit](https://old.reddit.com/r/chrome/comments/7svirq/does_anyone_know_how_to_delete_all_onetab/hyhlo3i/) (2022-02-26).
-
-### Additional Information
-
-
-
-
-
---- 
 
